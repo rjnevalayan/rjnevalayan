@@ -7,8 +7,8 @@
 <div>
 
   [![Instagram](https://img.shields.io/badge/Instagram-%23EF990D.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/aleuqc1r/)
-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ricquela-Venj-Alayan-a5424b223/)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shndlz_r)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ricquela-Venj-Alayan/)
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/shndlz_r/)
 
 
 </div>
